@@ -1,7 +1,7 @@
 # cpp-101
 
 <p align="left">
-	<img alt="c++" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYLoCY4xF2elvPprNnFnXgqIJ0_MkHQBtMQ&s">
+	<img alt="c++" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYLoCY4xF2elvPprNnFnXgqIJ0_MkHQBtMQ&s" width="700px" height="233px">
 </p>
 
 
